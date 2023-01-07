@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "No autorizo",
   titleModar: "Espero que te guste tu propio asistente jjj",
   descriptionModar:
-    'La neta copia el link pq ya no supe como hacer para que te direccionara al gugul drive jajsjaks </br> (https://drive.google.com/file/d/1DhX7foSymoIToKSAxOQw_6JNixT-bYem/view?usp=sharing) "',
+    'La neta copia el link pq ya no supe como hacer para que te direccionara al gugul drive jajsjaks </br> (https://drive.google.com/file/d/1D3Ln-l0j19Rftm-qG-wB_T6-M0jND61Q/view?usp=sharing) "',
 };
